@@ -1,0 +1,61 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color:   #edbefd;
+}
+
+/* global style  */
+.section-title{
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 500;
+    color: #562EFF;
+    padding: 15px  10px;
+}
+
+/* navbar starts from here */
+.navbar{
+    background-color: #562EFF;;
+}
+
+nav ul li{
+    padding: 15px;
+    font-size: 16px;
+
+}
+
+.text-brand{
+    font-size: 24px;
+    list-style: 36px;
+    font-weight: 500;
+    color: white;
+}
+
+.togbar{
+    color: white;
+    font-size: 2rem;
+}
+/* navbar ends from here */
+
+
+/* top players starts from here */
+  .player-img{
+      width: 56px;
+      height: 56px;
+  }
+
+  .hr-line{
+      margin-top: 30px;
+      border: 1px solid #D1D1D1;
+     
+  }
+/* top players ends from here */
+
+/* top blogs starts from here */
+.blog-img{
+    width: 224px;
+    height: 127px;
+}
+/* top blogs ends from here */
