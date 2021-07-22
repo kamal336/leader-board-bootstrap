@@ -90,9 +90,7 @@ nav ul li{
 /* courses section ends from here */
 
 @media screen and (max-width:668px){
-    .player{
-        background-color: #afebfd;
-    }
+
     .sm-responsive{
         flex-direction: column;
     }
